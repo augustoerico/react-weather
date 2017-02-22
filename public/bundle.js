@@ -886,17 +886,17 @@ eval("/**\n * Copyright 2013-present, Facebook, Inc.\n * All rights reserved.\n 
 
 /***/ }),
 /* 117 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
 "use strict";
-eval("\n\nvar React = __webpack_require__(5);\n\nvar About = function About(props) {\n  return React.createElement(\n    'h2',\n    null,\n    'About component'\n  );\n};\n\nmodule.exports = About;//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMTE3LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL0Fib3V0LmpzeD8yNThmIl0sInNvdXJjZXNDb250ZW50IjpbInZhciBSZWFjdCA9IHJlcXVpcmUoJ3JlYWN0Jyk7XG5cbnZhciBBYm91dCA9IChwcm9wcykgPT4ge1xuICByZXR1cm4gKFxuICAgIDxoMj5BYm91dCBjb21wb25lbnQ8L2gyPlxuICApXG59O1xuXG5tb2R1bGUuZXhwb3J0cyA9IEFib3V0O1xuXG5cblxuLy8gV0VCUEFDSyBGT09URVIgLy9cbi8vIGFwcC9jb21wb25lbnRzL0Fib3V0LmpzeCJdLCJtYXBwaW5ncyI6Ijs7QUFBQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQUE7QUFBQTtBQUFBO0FBRUE7QUFDQTsiLCJzb3VyY2VSb290IjoiIn0=");
+eval("throw new Error(\"Module build failed: SyntaxError: Unterminated JSX contents (8:10)\\n\\n\\u001b[0m \\u001b[90m  6 | \\u001b[39m      \\u001b[33m<\\u001b[39m\\u001b[33mh3\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[33mAbout\\u001b[39m\\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mh3\\u001b[39m\\u001b[33m>\\u001b[39m\\n \\u001b[90m  7 | \\u001b[39m      \\u001b[33m<\\u001b[39m\\u001b[33mp\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[33mThis\\u001b[39m is an application developed during the \\u001b[33mReact\\u001b[39m course on \\u001b[33mUdemy\\u001b[39m\\u001b[33m.\\u001b[39m\\n\\u001b[31m\\u001b[1m>\\u001b[22m\\u001b[39m\\u001b[90m  8 | \\u001b[39m    \\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mdiv\\u001b[39m\\u001b[33m>\\u001b[39m\\n \\u001b[90m    | \\u001b[39m          \\u001b[31m\\u001b[1m^\\u001b[22m\\u001b[39m\\n \\u001b[90m  9 | \\u001b[39m  )\\n \\u001b[90m 10 | \\u001b[39m}\\u001b[33m;\\u001b[39m\\n \\u001b[90m 11 | \\u001b[39m\\u001b[0m\\n\");//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMTE3LmpzIiwic291cmNlcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlUm9vdCI6IiJ9");
 
 /***/ }),
 /* 118 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nvar React = __webpack_require__(5);\n\nvar Examples = function Examples(props) {\n  return React.createElement(\n    'h2',\n    null,\n    'Examples component'\n  );\n};\n\nmodule.exports = Examples;//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMTE4LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL0V4YW1wbGVzLmpzeD9iYzYzIl0sInNvdXJjZXNDb250ZW50IjpbInZhciBSZWFjdCA9IHJlcXVpcmUoJ3JlYWN0Jyk7XG5cbnZhciBFeGFtcGxlcyA9IChwcm9wcykgPT4ge1xuICByZXR1cm4gKFxuICAgICAgPGgyPkV4YW1wbGVzIGNvbXBvbmVudDwvaDI+XG4gIClcbn07XG5cbm1vZHVsZS5leHBvcnRzID0gRXhhbXBsZXM7XG5cblxuXG4vLyBXRUJQQUNLIEZPT1RFUiAvL1xuLy8gYXBwL2NvbXBvbmVudHMvRXhhbXBsZXMuanN4Il0sIm1hcHBpbmdzIjoiOztBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFFQTtBQUNBOyIsInNvdXJjZVJvb3QiOiIifQ==");
+eval("\n\nvar React = __webpack_require__(5);\n\nvar Examples = function Examples(props) {\n  return React.createElement(\n    'div',\n    null,\n    React.createElement(\n      'h3',\n      null,\n      'Examples'\n    ),\n    React.createElement(\n      'p',\n      null,\n      'Welcome to examples page!'\n    )\n  );\n};\n\nmodule.exports = Examples;//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMTE4LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL0V4YW1wbGVzLmpzeD9iYzYzIl0sInNvdXJjZXNDb250ZW50IjpbInZhciBSZWFjdCA9IHJlcXVpcmUoJ3JlYWN0Jyk7XG5cbnZhciBFeGFtcGxlcyA9IChwcm9wcykgPT4ge1xuICByZXR1cm4gKFxuICAgICAgPGRpdj5cbiAgICAgICAgPGgzPkV4YW1wbGVzPC9oMz5cbiAgICAgICAgPHA+V2VsY29tZSB0byBleGFtcGxlcyBwYWdlITwvcD5cbiAgICAgIDwvZGl2PlxuICApXG59O1xuXG5tb2R1bGUuZXhwb3J0cyA9IEV4YW1wbGVzO1xuXG5cblxuLy8gV0VCUEFDSyBGT09URVIgLy9cbi8vIGFwcC9jb21wb25lbnRzL0V4YW1wbGVzLmpzeCJdLCJtYXBwaW5ncyI6Ijs7QUFBQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQUE7QUFDQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUZBO0FBS0E7QUFDQTsiLCJzb3VyY2VSb290IjoiIn0=");
 
 /***/ }),
 /* 119 */
